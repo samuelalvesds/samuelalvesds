@@ -3,7 +3,7 @@
 
 - 📚 Graduating Analysis Systems Development
 - 🌱 I’m currently learning Java
-
+- 🇧🇷 Brazilian Developer
 ---
 ### 💻 Technologies
 <div style="display: inline_block">
