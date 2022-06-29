@@ -3,6 +3,7 @@
 
 - 📚 Graduating Analysis Systems Development
 - 🌱 I’m currently learning Java
+- 🧠 Interested in Security Software Development
 - 🇧🇷 Brazilian Developer
 
 
