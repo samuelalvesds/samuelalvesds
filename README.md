@@ -8,6 +8,7 @@
 ### 💻 Technologies
 <div style="display: inline_block">
   <img align="center" alt="Samuel-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Samuel-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 
