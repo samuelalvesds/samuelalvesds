@@ -1,11 +1,8 @@
 ---
 ### Hello, I'm Samuel Alves 👋
 
-- 📚 Graduating Analysis Systems Development
-- 🌱 I’m currently learning Java
-- 🧠 Interested in Security Software Development
-- 🇧🇷 Brazilian Developer
-
+- 📚 Graduado em Análise e Desenvolvimento de Sistemas
+- 🌱 Node, Typescript, React
 
 ---
 ### 💻 Technologies
